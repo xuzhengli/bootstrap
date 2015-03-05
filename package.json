@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "btoa": "~1.1.2",
-    "glob": "~4.4.0",
+    "glob": "~4.4.2",
     "grunt": "~0.4.5",
     "grunt-autoprefixer": "~2.2.0",
     "grunt-banner": "~0.3.1",
@@ -57,7 +57,7 @@
     "grunt-saucelabs": "~8.6.0",
     "grunt-sed": "~0.1.1",
     "load-grunt-tasks": "~3.1.0",
-    "markdown-it": "^3.0.7",
+    "markdown-it": "^3.1.0",
     "npm-shrinkwrap": "^200.1.0",
     "time-grunt": "^1.1.0"
   },
